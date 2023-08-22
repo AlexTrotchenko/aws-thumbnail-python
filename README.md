@@ -2,8 +2,6 @@
 
 ## Project structure
 
-Here is a brief overview of what we have generated for you.
-
 ```bash
 .
 ├── README.md                   <-- This instructions file
